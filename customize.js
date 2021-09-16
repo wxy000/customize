@@ -46,7 +46,6 @@ function runDenglong() {
     denglongs.push("2|1-1|新年快乐");
     denglongs.push("2|1-15|元宵快乐");
     denglongs.push("2|8-15|中秋快乐");
-    denglongs.push("2|6-27|生日快乐");
     //...
     //获取当前日期
     var date = new Date();
